@@ -24,5 +24,5 @@ usethis::use_readme_rmd()
 #all work now on is in new branch 
 #work on one branch at the same time - avoid working on the same file on different branches
 
-print("Hey Kath 2")
+print("Hey Kath")
 
